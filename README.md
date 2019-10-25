@@ -9,3 +9,6 @@
     
  -In order to run Database install H2 Database on your machine and set the url property from your local machine:
  eg: <property name="url" value="jdbc:h2:tcp://localhost/~/test" />
+
+
+https://www.youtube.com/watch?v=6b-EWtZS-yU&list=PLYZvWFacASF9uG9gHDEGTM5XxnvCRJAL7
